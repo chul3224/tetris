@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0D0D1A</color>
+    <color name="bg_panel">#12122A</color>
+    <color name="grid_line">#1E1E3A</color>
+    <color name="claude_orange">#FF6B35</color>
+    <color name="claude_amber">#FFB347</color>
+    <color name="text_primary">#FF6B35</color>
+    <color name="text_secondary">#FFB347</color>
+    <color name="piece_I">#00F5FF</color>
+    <color name="piece_O">#FFE600</color>
+    <color name="piece_T">#FF6B35</color>
+    <color name="piece_S">#39FF14</color>
+    <color name="piece_Z">#FF3131</color>
+    <color name="piece_J">#4D9FFF</color>
+    <color name="piece_L">#FFB347</color>
+</resources>
